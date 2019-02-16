@@ -4,10 +4,7 @@
 * Gradle
 * Docker
 * Lombok for Eclipse
-* AWS CLI
-* Git Bash
 * ConEmu
-* Putty
 
 
 ## JDK install
@@ -36,6 +33,9 @@ https://docs.oracle.com/cd/E19182-01/820-7851/inst_cli_jdk_javahome_t/
   
 https://projectlombok.org/setup/eclipse
 
+  - Once you install Lombok, you will need to restart Eclipse
+
+
 ## Gradle
   - Gradle is dependency management tools. It requires Java to be installed, thus make sure you have JDK install first
   - Install Gradle from here
@@ -50,4 +50,12 @@ https://gradle.org/install/#prerequisites
 https://docs.docker.com/install/
   - Choose docker agent based on your operating system (Mac/Linux/Windows)
   - Just pick stable release from Docker
+  - Once installation is complete, go to Terminal/Command Prompt and type "docker --version" to verify
+  
+## ConEmu
+  - ConEmu is handy terminal emulator for Windows (similar to PowerShell)
+  - Install ConEmu from here
+  
+  https://conemu.github.io/
+  
 
