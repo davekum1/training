@@ -14,9 +14,11 @@
   - Make sure you choose JDK not JRE package
   - Once installation complete, to verify, open new Terminal/Command Prompt and check java version by typing "java -version". If it indicates JDK 1.8 then it is all set
   - If not, make sure JAVA_HOME is set properly
+  
   For Mac/Linux: 
   
 https://www.mkyong.com/java/how-to-set-java_home-environment-variable-on-mac-os-x/
+
   For Windows: 
   
 https://docs.oracle.com/cd/E19182-01/820-7851/inst_cli_jdk_javahome_t/
