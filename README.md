@@ -5,6 +5,7 @@
 * Docker
 * Lombok for Eclipse
 * ConEmu
+* AWS CLI
 
 
 ## JDK install
