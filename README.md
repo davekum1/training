@@ -59,5 +59,10 @@ https://docs.docker.com/install/
   - Install ConEmu from here
   
   https://conemu.github.io/
-  
+
+## AWS CLI
+ - AWS CLI is command line interface tools which is needed in this training 
+ - Please refer to AWS documentation below for installation
+
+https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
 
