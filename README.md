@@ -6,6 +6,8 @@
 * Lombok for Eclipse
 * ConEmu
 * AWS CLI
+* SSH Client: PuTTy, CygWin w/ ssh, etc.
+* SCP Clinet: WinScp
 
 
 ## JDK install
@@ -67,3 +69,8 @@ https://docs.docker.com/install/
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
 
+## PuTTy
+https://www.putty.org/
+
+## WinScp
+https://winscp.net/eng/download.php
