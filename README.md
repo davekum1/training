@@ -69,8 +69,37 @@ https://docs.docker.com/install/
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
 
-## PuTTy
+## PuTTy and PuttyGen
+ - If you are using Windows, you will need both Putty and PuttyGen to connect to Linux instances
+ - If you are using Mac/Linux, you can just use ssh
+ - To download Putty, navigate below
+
 https://www.putty.org/
+
+ - To download PuttyGen, navigate below
+
+https://www.puttygen.com/
 
 ## WinScp
 https://winscp.net/eng/download.php
+
+
+## Connecting to Linux instance
+ - Make sure you have the pem key and store them in .ssh folder
+ - If you are using Mac/Linux: 
+     ssh ec2-user@[ip address]
+- If you are using Windows:
+     * Open up PuttyGen
+     * Click Load and choose pem key that you have
+     * You need to convert them to ppk file
+     * Save private key
+     * Open up Putty
+     * In the hostname, type EC2 IP Address
+     * In the Putty menu on left, choose SSH
+     * Choose Auth
+     * Click Browse
+     * And select ppk file that you generated earlier with PuttyGen
+     * Once you are login, for the user, type "ec2-user"
+     
+For detail information, you can refer here:
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
