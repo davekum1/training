@@ -4,6 +4,7 @@
 * Gradle
 * Docker
 * Lombok for Eclipse
+* Spring Tools Suite (STS) for Eclipse
 * ConEmu
 * AWS CLI
 * SSH Client: PuTTy, CygWin w/ ssh, etc.
