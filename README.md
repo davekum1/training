@@ -40,6 +40,10 @@ https://projectlombok.org/setup/eclipse
 
   - Once you install Lombok, you will need to restart Eclipse
 
+## Spring tools suite (STS) plugin for Eclipse
+  - In Eclipse, go to Help - Eclipse market place
+  - In Find, type "sts", and pick Spring tools suite
+  - Install plugin and restart Eclipse
 
 ## Gradle
   - Gradle is dependency management tools. It requires Java to be installed, thus make sure you have JDK install first
