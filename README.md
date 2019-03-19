@@ -9,6 +9,7 @@
 * AWS CLI
 * SSH Client: PuTTy, CygWin w/ ssh, etc.
 * SCP Clinet: WinScp
+* JMeter
 
 
 ## JDK install
@@ -108,3 +109,9 @@ https://winscp.net/eng/download.php
      
 For detail information, you can refer here:
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
+
+## JMeter
+https://jmeter.apache.org/download_jmeter.cgi
+
+Note: JMeter requires JDK to be installed
+
